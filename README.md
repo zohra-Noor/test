@@ -8,3 +8,4 @@ this is my first programm
 this is for fetch
 this is new command fetch pract
 fetch
+hello 
